@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Greenville's Best Real Estate Training"
+description: Bryn Brutosky, a top Real Estate Agent in -- MARKET --, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -8,26 +8,28 @@ custom_links:
   - title: Events
     url: #
   - title: Free Strategy Call
-    url: /strategy-call/
+    url: /contact/
   - title: Free Newsletter
     url: /subscribe/
 
 
 client:
-  name:
+  name: Bryn Brutosky
   title:
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Greenville
+  brand: Keller Williams Drive
   brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
+  address: 314 Lloyd Street<br>Greenville, SC 29601
+  phone: 864-520-5649
+  phone_type: Direct
+  phone2: 864-520-5649
+  phone2_type: Brokerage
+  email: bryn@kw.com
+  email2: klrw1080@kw.com
+  email2_type: Brokerage
   url:
 
 lender:

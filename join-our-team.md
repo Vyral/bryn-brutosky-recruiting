@@ -1,9 +1,8 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Greenville Careers
 permalink: /join-our-team/
 ---
-
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
@@ -15,39 +14,63 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Fellow Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a real estate brokerage or on a traditional team as part of someone else’s personal brand. You understand your potential and are working hard to clear a path toward your goals, but currently lack the support you need to achieve them.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, <strong>87% of all new agents fail within five years of working in the industry.</strong></p>
+
+<p>This isn’t to say that these agents don’t try to make it work. The simple truth is that even the most talented individuals can’t thrive if they’re struggling against an inadequate work environment, and proper training is a rare thing in our business.</p>
+
+<p><strong>If this sounds familiar, you’ve almost certainly tried everything you can think of to keep pushing forward.</strong> You’re determined to take your career to the next level, but you just don’t have the proper tools.</p>
+
+<p>Think of it this way: A mountain climber couldn’t make it up Everest without any gear, could they? Of course not. The same is true of real estate agents. If you want to get to the top, you need to be properly equipped. In other words, you need coaching, you need resources, and you need to surround yourself with a group of professionals who are as determined and growth-minded as you are.</p>
+
+<p>If you’re ready to take charge of your future and start climbing toward your own personal “summit,” I’ve got good news. <strong>My name is Bryn Brutosky, and since starting Keller Williams DRIVE in 2017, I’ve helped many agents just like you get on the path for success in real estate.</strong></p>
+
+<p>DRIVE is seeking goal-oriented, growth-minded individuals to join us and fulfill their potential as real estate professionals and as successful business owners. Not only is Keller Williams the No. 1 training company in the world, but we’ve also got an unparalleled commitment to education and a culture that is second to none.</p>
+
+<p><strong>Agents who join us gain immediate access to a multitude of resources, such as</strong>:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>One-on-one coaching</li>
+<li>Monthly masterminds with top-performing professionals</li>
+<li>Proven systems and processes</li>
+<li>Consistent leads</li>
+<li>Abundant training opportunities</li>
+<li>Accountability</li>
+<li>Cutting-edge technology</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>Each of these things will be invaluable to your success, and this list merely scratches the surface of what DRIVE has to offer. Our growth-centered culture allows agents to build each other up, rather than tear each other down. We believe in collaboration, not competition.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>And, unlike other brokerages, we don’t make empty promises. <strong>Success and growth aren’t just the norm for us—they’re our standard.</strong> Our agents don’t just survive in the industry—they thrive.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>The experience of working with DRIVE is fundamentally different from being a part of another brokerage. Why? Because we don’t make great agents, we support great agents. The agents who come to us are already great.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>That’s why we’re able to focus on our true goal: <strong>to transform great agents into great business owners by offering the support, culture, systems, and tools they need to break through to the next level.</strong>  </p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Ultimately, the fate of your life and career is in your hands. You can try to go it alone as a solo agent, continue struggling at your current brokerage, or even exit the industry—or you could join us, plug into our systems, and start seeing the success you deserve.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>But don’t just take my word for it. <strong>Consider the story of Brandon, one of our brokerage’s great agents:</strong></p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>Before he came to us, Brandon was working for a different local brokerage where his dreams and goals were treated as a joke. When he shared his desire to become debt free, for example, his teammates simply laughed and told him to accept that it would never happen. Working at this brokerage, Brandon had a complete lack of support. Then, a short while later, everything changed. Brandon met with a professional from our brokerage and decided to make a switch. <strong>He doubled his business in just one year after joining us, and is currently on track to double it again. More importantly, he has learned to think like a business owner and is almost 100% debt free.</strong></p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Brandon’s success story is incredible, and now is your chance to write your own. The opportunity to change your life is right in front of you.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>If you’re interested in the chance to earn a 100% commission while growing your business exponentially, we want to hear from you.</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>When you join us, your path to success starts right away. We’ll send you through our intensive onboarding system, which includes introducing you to our technology and systems, setting you up with a coach, and immersing you into our company culture.</p>
+
+<p>Our support-oriented environment helps professionals learn, grow, and thrive. <strong>People join us because they want to succeed, make money, and serve our community.</strong> We understand that to reach those goals, you need support, coaching, resources, and leads—so that is exactly what we provide.</p>
+
+<p>So what are you waiting for? It’s time to take control of your future and see first-hand how joining DRIVE can transform your life and career. The longer you wait to reach out, the longer you’re suppressing your true potential. Let’s have a conversation.</p>
+
+<p>I look forward to talking to you soon!</p>
+
+<p>{{site.data.settings.client.name}}<br>
+<a href="tel:{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
+<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br /></p>
 
 
 
