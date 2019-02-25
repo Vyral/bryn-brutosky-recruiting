@@ -35,7 +35,6 @@ permalink: /join-our-team/
 <li>One-on-one coaching</li>
 <li>Monthly masterminds with top-performing professionals</li>
 <li>Proven systems and processes</li>
-<li>Consistent leads</li>
 <li>Abundant training opportunities</li>
 <li>Accountability</li>
 <li>Cutting-edge technology</li>
