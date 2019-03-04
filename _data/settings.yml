@@ -1,6 +1,6 @@
 audit_header: false
 title: "Greenville's Best Real Estate Training"
-description: Bryn Brutosky, a top Real Estate Agent in -- MARKET --, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Bryn Brutosky, a top Real Estate Agent in Greenville, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -8,7 +8,7 @@ custom_links:
   # - title: Events
   #   url: #
   - title: Free Strategy Call
-    url: /contact/
+    url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
 

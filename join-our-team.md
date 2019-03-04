@@ -68,7 +68,7 @@ permalink: /join-our-team/
 
 <p>{{site.data.settings.client.name}}<br>
 <a href="tel:{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
-<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">Email Us</a><br />
 <a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br /></p>
 
 
