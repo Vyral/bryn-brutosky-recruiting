@@ -34,20 +34,23 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"The Locker Room and coaching program are awesome resources to help boost your real estate career and to keep you on the path to success."</span><br>
+<span class="author">- Mike</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"So glad I attend! Each time I attend a new training session here at KW DRIVE, I come away with something new.. new ideas, new information, new perspectives.. Today I came away with a new buyer lead!"</span><br>
+<span class="author">- Rod</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"The training we receive at KW DRIVE is above and beyond any other agency! We have access to top agents- not only locally, but nationally! Being able to learn and grow from agents who are excelling in various niches is the best! There are so many ways to lead generate in real estate!"</span><br>
+<span class="author">- Kelsey</span></p>
+
+<p><span class="quote">"KW DRIVE has made a HUGE difference in my business! The office culture is the BEST!"</span><br>
+<span class="author">- Catherine</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
