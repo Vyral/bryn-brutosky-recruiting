@@ -3,7 +3,8 @@ layout: default
 title: Local Vendors
 permalink: /local-vendors/
 ---
-<h3>Local Vendors</h3>
+<h1>Local Vendors</h1>
+<hr>
 
 <div class="vendors">
 <a href="http://www.sallegalloway.com/" target="_blank"><img src="/img/salle.png" class="vendor-logo"></a>
