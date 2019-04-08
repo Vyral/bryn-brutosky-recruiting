@@ -2668,6 +2668,12 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.vendor-logo {
+  max-width: 250px; }
+
+.vendors {
+  font-size: 20px; }
+
 .recruiting {
   text-align: center; }
 

@@ -11,7 +11,8 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-
+  - title: Local Vendors
+    url: /local-vendors/
 
 client:
   name: Bryn Brutosky
