@@ -13,6 +13,8 @@ custom_links:
     url: /subscribe/
   - title: Local Vendors
     url: /local-vendors/
+  - title: Agent Spotlights
+    url: /agent-spotlights/
 
 client:
   name: Bryn Brutosky
