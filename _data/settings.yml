@@ -17,7 +17,7 @@ custom_links:
     url: /agent-spotlights/
 
 post_ctas:
-  events_url:
+  events_url: https://www.eventbrite.com/o/keller-williams-drive-15950389591
   events_image: /img/events.jpg
   join_our_team_image: /img/join_our_team_full.jpg
 
