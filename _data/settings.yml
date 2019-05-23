@@ -5,8 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  # - title: Events
-  #   url: #
+  - title: Events
+    url: https://www.eventbrite.com/o/keller-williams-drive-15950389591
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
