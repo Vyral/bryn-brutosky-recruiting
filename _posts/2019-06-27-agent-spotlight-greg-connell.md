@@ -27,7 +27,7 @@ There's a lot of excellent training at the beginning taught by masters of their 
 
 Greg and his wife love community-building and want to make Greenville a better home for everybody. They want to invest in the community, invest in young people, and continue to grow and serve people well in this huge transition of life.&nbsp;
 
-If you have any questions for us in the meantime or want to learn more about how you can get your career on a similar path to Greg's, don't hestitate to give us a call or send us an email. We look forward to hearing from you.&nbsp;
+If you have any questions for us in the meantime or want to learn more about how you can get your career on a similar path to Greg's, don't hesitate to give us a call or send us an email. We look forward to hearing from you.&nbsp;
 
 {% include pullquote.html %}
 
