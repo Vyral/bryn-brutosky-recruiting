@@ -5,9 +5,7 @@ date: 2019-06-27 10:00:00
 tags:
 excerpt:
 enclosure:
-pullquote: >-
-  Greg Connell hasn't been with our team for a long time, but he’s already made
-  an impact. Here’s how.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
