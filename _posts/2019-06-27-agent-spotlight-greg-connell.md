@@ -23,4 +23,6 @@ Greg Connell is a Realtor with Keller Williams Drive. He started in real estate 
 
 {% include pullquote.html %}
 
+Greg Connell hasn't been with our team for a long time, but he's already made an impact. Here's how.
+
 {% include events-cta.html %} {% include join-our-team-cta.html %}
