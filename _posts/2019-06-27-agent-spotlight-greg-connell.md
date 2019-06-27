@@ -21,6 +21,14 @@ Greg Connell is a Realtor with Keller Williams Drive. He started in real estate 
 
 *"There's a lot of motivated people here, but the culture is wide open,"* Connell said. *"There's enough work and enough business for everyone. It's a super great environment that continues to grow, flourish, and bring in more and more talent."*
 
+*"Everybody wants you to succeed and we're all kind of in it together. When you come in, it's warm and inviting, people are helpful, and it's an environment that pursues growth and accountability."*
+
+There's a lot of excellent training at the beginning taught by masters of their craft to get into the details. Everyone's always looking for what's next and how to get a step ahead.&nbsp;
+
+Greg and his wife love community-building and want to make Greenville a better home for everybody. They want to invest in the community, invest in young people, and continue to grow and serve people well in this huge transition of life.&nbsp;
+
+If you have any questions for us in the meantime or want to learn more about how you can get your career on a similar path to Greg's, don't hestitate to give us a call or send us an email. We look forward to hearing from you.&nbsp;
+
 {% include pullquote.html %}
 
 Greg Connell hasn't been with our team for a long time, but he's already made an impact. Here's how.
