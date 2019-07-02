@@ -15,9 +15,9 @@ youtube_alternate_image:
 youtube_code: h0_gjTzwAo4
 ---
 
-{% include youtube.html %}
-
 What are the Six Personal Perspectives and how can they help you in your business?
+
+{% include youtube.html %}
 
 **1\. Commit to self-mastery.** This involves self-reflection and educating yourself to be the best you can be within a specific skill set. As you work through each of these perspectives, you'll learn that this isn't about one particular skill set; it's more of an overarching process you continually evolve through. The best part about it is as you work through the process, you start over with new skill sets and new parts to your business. The first step, though, is to recognize where you want to go and commit to self-mastery of whatever it is you're doing, whether that's a skill set, a mindset, a business concept, etc.&nbsp;
 
