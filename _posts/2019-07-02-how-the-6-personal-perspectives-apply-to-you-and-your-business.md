@@ -31,7 +31,7 @@ What are the Six Personal Perspectives and how can they help you in your busines
 
 **5\. Remove your limiting beliefs.** A mindset centered around working for something bigger than yourself is powerful, but one of the biggest things holding us back from doing this is fear of failure. You must be able to overcome this. As you work through these perspectives, your limiting beliefs will diminish automatically.&nbsp;
 
-6\. Be accountable. When individuals surround themselves with great minds and great information, the results are amazing. By doing this, you can accelerate your skills-based learning and your business knowledge. When you have people willing to hold you accountable to the goals you set, your growth is explosive.
+**6\. Be accountable.** When individuals surround themselves with great minds and great information, the results are amazing. By doing this, you can accelerate your skills-based learning and your business knowledge. When you have people willing to hold you accountable to the goals you set, your growth is explosive.
 
 Systematically working your way through these perspectives will move you toward the path of success. What success looks like can vary from person to person, but ultimately this boils down to making progress and moving forward.
 
