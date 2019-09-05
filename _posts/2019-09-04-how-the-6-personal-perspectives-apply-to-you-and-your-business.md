@@ -3,7 +3,6 @@ layout: post
 title: How the 6 Personal Perspectives Apply to You and Your Business
 date: 2019-09-04 00:00:00
 tags:
-  - Real Estate
 excerpt: >-
   There are six personal perspectives that will, when applied to your life and
   business, help you surge forward on the path to success. Learn more about them
@@ -27,9 +26,9 @@ Our mission here at Keller Williams Drive is to continually raise the bar for ed
 
 This past month during our Extraordinary Business Leader series, Crystal Lagarde came in from Pennsylvania to spend a day with us and walk us through the six personal perspectives that, when applied to your life and business, will put you on the path toward success.
 
-**1\. Commit to self-mastery.** To do this is be self-reflective and dedicated to being the very best you can be at a specific skill set. The beauty of this first personal perspective is that, as you work through the rest of the ones to follow, you’ll learn new skills to hone. The key is to recognize where you want to go and to commit to the end result.
+**1\. Commit to self-mastery.** To do this is to be self-reflective and dedicated to being the very best you can be at a specific skill set. The beauty of this first personal perspective is that, as you work through the rest of the ones to follow, you’ll learn new skills to hone. The key is to recognize where you want to go and to commit to the end result.
 
-**2\. Commit to the 80/20 principle.** Many agents are familiar with the Pareto Principle, which states that 80% of your results stem from 20% of your activities. In other words, To commit to this principle, 80% of your time should be spent focusing on the value-building activities in that 20%.
+**2\. Commit to the 80/20 principle.** Many agents are familiar with the Pareto Principle, which states that 80% of your results stem from 20% of your activities. In other words, to commit to this principle, 80% of your time should be spent focusing on the value-building activities in that 20%.
 
 {% include pullquote.html %}
 
