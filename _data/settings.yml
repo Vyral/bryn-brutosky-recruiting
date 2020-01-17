@@ -1,12 +1,14 @@
 audit_header: false
-title: "Greenville's Best Real Estate Training"
-description: Bryn Brutosky, a top Real Estate Agent in Greenville, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Greenville's Best Real Estate Training
+description: >-
+  Ryan Smith, shares our internal real estate agent training for free. His Real
+  Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: https://www.eventbrite.com/o/keller-williams-drive-15950389591
+    url: 'https://www.eventbrite.com/o/keller-williams-drive-15950389591'
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
@@ -15,96 +17,106 @@ custom_links:
     url: /local-vendors/
   - title: Agent Spotlights
     url: /agent-spotlights/
-
 post_ctas:
-  events_url: https://www.eventbrite.com/o/keller-williams-drive-15950389591
+  events_url: 'https://www.eventbrite.com/o/keller-williams-drive-15950389591'
   events_image: /img/events.jpg
   join_our_team_image: /img/join_our_team_full.jpg
-
 client:
-  name: Bryn Brutosky
-  title:
+  name: Ryan Smith
+  title: Team Leader
   license_number:
-  about_markdown: |
-    Keller Williams DRIVE was launched in December 2017. Our Market Center started with 84 agents and we now have 145 agents. In 2018 We closed 1,061 units for $214,237,696 in volume. Our vision is to cultivate the #1 Keller Williams office in the world through genuine relationships, unparalleled service, abundant giving and the open exchange of ideas. We have an in-house coaching program, an education calendar that contains many events where we bring in Mega Agents from around the country, we are growth-oriented, learning based, have cutting edge tools and technology and a great culture.
+  about_markdown: >-
+    Keller Williams DRIVE was launched in December 2017. Our Market Center
+    started with 84 agents and we now have 175 agents. In 2018 We closed 1,061
+    units for $214,237,696 in volume. Our vision is to cultivate the \#1 Keller
+    Williams office in the world through genuine relationships, unparalleled
+    service, abundant giving and the open exchange of ideas. We have an in-house
+    coaching program, an education calendar that contains many events where we
+    bring in Mega Agents from around the country, we are growth-oriented,
+    learning based, have cutting edge tools and technology and a great culture.
   market: Greenville
-  brand: Keller Williams Drive
+  brand: Keller Williams DRIVE
   brokerage:
-  address: 200 Mills Avenue<br>Greenville, SC 29605
+  address: '200 Mills Avenue<br>Greenville, SC 29605'
   phone: 864-520-5649
   phone_type: Direct
   phone2: 864-520-5649
   phone2_type: Brokerage
-  email: bryn@kw.com
+  email: ryanevansmith@kw.com
   email2: klrw1080@kw.com
   email2_type: Brokerage
   url:
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/GreenvilleKellerWilliams/
-  linkedin_url: https://www.linkedin.com/company/keller-williams-drive/about/
+  facebook_url: 'https://www.facebook.com/GreenvilleKellerWilliams/'
+  linkedin_url: 'https://www.linkedin.com/company/keller-williams-drive/about/'
   gplus_url:
   youtube_url:
   twitter_url:
-  instagram_url: https://www.instagram.com/kw.drive/
+  instagram_url: 'https://www.instagram.com/kw.drive/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/ryan-smith-final.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
