@@ -1,14 +1,15 @@
 audit_header: false
 title: Greenville's Best Real Estate Training
 description: >-
-  Ryan Smith, shares our internal real estate agent training for free. His Real
-  Estate Training, Tips and Advice will help you sell more homes in less time.
+  Our vision is to cultivate the number one Keller Williams office in the world
+  through genuine relationships, unparalled service, abundant giving, and the
+  open exchange of ideas.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: 'https://www.eventbrite.com/o/keller-williams-drive-15950389591'
+    url: https://www.eventbrite.com/o/keller-williams-drive-15950389591
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
@@ -18,46 +19,58 @@ custom_links:
   - title: Agent Spotlights
     url: /agent-spotlights/
 post_ctas:
-  events_url: 'https://www.eventbrite.com/o/keller-williams-drive-15950389591'
+  events_url: https://www.eventbrite.com/o/keller-williams-drive-15950389591
   events_image: /img/events.jpg
   join_our_team_image: /img/join_our_team_full.jpg
 client:
-  name: Ryan Smith
-  title: Team Leader
+  name: KW Drive
+  title:
   license_number:
   about_markdown: >-
-    Keller Williams DRIVE was launched in December of 2017. Our Market Center initially started with 84 agents and has grown to over 125. In our first year alone, we closed 1,061 units for $214,237,696 in volume. Our vision is to cultivate the number one Keller Williams office in the world through genuine relationships, unparalled service, abundant giving, and the open exchange of ideas. Our focus has always been to help agents get the job done by giving them support, education, and tools. To facilitate this, we have training for the state of the art software available to KW affiliated agents including Command CRM, the KW Consumer app, and the Kelle app, as well as an in-house coaching program, an education calendar that contains different classes where we bring in Mega Agents from around the country to teach you, and much more! We are growth oriented by wielding cutting edge technology and training but also by cultivating a supportive, family-first culture.
+    Keller Williams DRIVE was launched in December of 2017. Our Market Center
+    initially started with 84 agents and has grown to over 125. In our first
+    year alone, we closed 1,061 units for $214,237,696 in volume. Our vision is
+    to cultivate the number one Keller Williams office in the world through
+    genuine relationships, unparalled service, abundant giving, and the open
+    exchange of ideas. Our focus has always been to help agents get the job done
+    by giving them support, education, and tools. To facilitate this, we have
+    training for the state of the art software available to KW affiliated agents
+    including Command CRM, the KW Consumer app, and the Kelle app, as well as an
+    in-house coaching program, an education calendar that contains different
+    classes where we bring in Mega Agents from around the country to teach you,
+    and much more\! We are growth oriented by wielding cutting edge technology
+    and training but also by cultivating a supportive, family-first culture.
   market: Greenville
-  brand: Keller Williams DRIVE
+  brand:
   brokerage:
-  address: '200 Mills Avenue<br>Greenville, SC 29605'
+  address: 200 Mills Avenue<br>Greenville, SC 29605
   phone: 864-423-5060
   phone_type: Direct
   phone2: 864-520-5649
   phone2_type: Brokerage
-  email: ryanevansmith@kw.com
-  email2: klrw1080@kw.com
-  email2_type: Brokerage
+  email: kwdrivefrontdesk@gmail.com
+  email2:
+  email2_type:
   url:
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/GreenvilleKellerWilliams/'
-  linkedin_url: 'https://www.linkedin.com/company/keller-williams-drive/about/'
+  facebook_url: https://www.facebook.com/GreenvilleKellerWilliams/
+  linkedin_url: https://www.linkedin.com/company/keller-williams-drive/about/
   gplus_url:
   youtube_url:
   twitter_url:
-  instagram_url: 'https://www.instagram.com/kw.drive/'
+  instagram_url: https://www.instagram.com/kw.drive/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -103,14 +116,14 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgba(0, 0, 0, 0)'
+  shadow_color: rgba(0, 0, 0, 0)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
