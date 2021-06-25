@@ -20,7 +20,7 @@ This isn’t to say that these agents don’t try to make it work. The simple tr
 
 Think of it this way: A mountain climber couldn’t make it up Everest without any gear, could they? Of course not. The same is true of real estate agents. If you want to get to the top, you need to be properly equipped. In other words, you need coaching, you need resources, and you need to surround yourself with a group of professionals who are as determined and growth-minded as you are.
 
-If you’re ready to take charge of your future and start climbing toward your own personal “summit,” I’ve got good news. **My name is Bryn Brutosky, and since starting Keller Williams DRIVE in 2017, I’ve helped many agents just like you get on the path for success in real estate.**
+If you’re ready to take charge of your future and start climbing toward your own personal “summit,” I’ve got good news.&nbsp;
 
 DRIVE is seeking goal-oriented, growth-minded individuals to join us and fulfill their potential as real estate professionals and as successful business owners. Not only is Keller Williams the No. 1 training company in the world, but we’ve also got an unparalleled commitment to education and a culture that is second to none.
 
