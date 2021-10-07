@@ -44,10 +44,10 @@ client:
   brand: Keller Williams Drive
   brokerage:
   address: 200 Mills Avenue<br>Greenville, SC 29605
-  phone: 864-423-5060
+  phone: 864-520-5649
   phone_type: Direct
-  phone2: 864-520-5649
-  phone2_type: Brokerage
+  phone2:
+  phone2_type:
   email: kwdrivefrontdesk@gmail.com
   email2:
   email2_type:
